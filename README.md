@@ -41,6 +41,9 @@ Tips
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
 
+# Lemonade App
+<img src="https://github.com/rwishd17/Project-1-Lemonade-App/blob/master/Lemonade.gif" alt="LemonadeApp" width="50%">
+
 # Awesomes
 ١. راشد شراحيلي <br>
 ٢. فالح الحربي <br>
